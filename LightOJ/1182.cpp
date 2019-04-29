@@ -16,7 +16,7 @@ int parity(long int a){
 int main(){
     int n ;
     cin>>n ;
-    freopen("out.txt","w",stdout) ;
+    //freopen("out.txt","w",stdout) ;
     for(int i=1;i<=n;i++){
         long int a ;
         scanf("%ld",&a) ;
