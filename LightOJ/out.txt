@@ -1,192 +1,1495 @@
-Case 1: 20211
-Case 2: 4686906
-Case 3: 1624466
-Case 4: 3562198
-Case 5: 1079000
-Case 6: 9
-Case 7: 5308890
-Case 8: 845596
-Case 9: 5799520
-Case 10: 4361916
-Case 11: 8147
-Case 12: 6613198
-Case 13: 4108445
-Case 14: 28787
-Case 15: 1995729
-Case 16: 1500465
-Case 17: 45
-Case 18: 7673240
-Case 19: 39
-Case 20: 11087
-Case 21: 8835156
-Case 22: 8609436
-Case 23: 8076164
-Case 24: 4861810
-Case 25: 3112585
-Case 26: 6471806
-Case 27: 878920
-Case 28: 2942960
-Case 29: 531836
-Case 30: 8756397
-Case 31: 9089659
-Case 32: 343856
-Case 33: 7544785
-Case 34: 6904902
-Case 35: 1411463
-Case 36: 5369915
-Case 37: 4190839
-Case 38: 5634547
-Case 39: 2288759
-Case 40: 5824622
-Case 41: 5836054
-Case 42: 8639284
-Case 43: 7019916
-Case 44: 4446356
-Case 45: 7014113
-Case 46: 3089770
-Case 47: 5532908
-Case 48: 7150250
-Case 49: 5562872
-Case 50: 3890685
-Case 51: 1114158
-Case 52: 9683987
-Case 53: 1100048
-Case 54: 5452536
-Case 55: 5193653
-Case 56: 7888159
-Case 57: 1451016
-Case 58: 2711936
-Case 59: 9377434
-Case 60: 5675445
-Case 61: 2327778
-Case 62: 7554152
-Case 63: 0
-Case 64: 1387314
-Case 1: 20211
-Case 2: 4686906
-Case 3: 1624466
-Case 4: 3562198
-Case 5: 1079000
-Case 6: 9
-Case 7: 5308890
-Case 8: 845596
-Case 9: 5799520
-Case 10: 4361916
-Case 11: 8147
-Case 12: 6613198
-Case 13: 4108445
-Case 14: 28787
-Case 15: 1995729
-Case 16: 1500465
-Case 17: 45
-Case 18: 7673240
-Case 19: 39
-Case 20: 11087
-Case 21: 8835156
-Case 22: 8609436
-Case 23: 8076164
-Case 24: 4861810
-Case 25: 3112585
-Case 26: 6471806
-Case 27: 878920
-Case 28: 2942960
-Case 29: 531836
-Case 30: 8756397
-Case 31: 9089659
-Case 32: 343856
-Case 33: 7544785
-Case 34: 6904902
-Case 35: 1411463
-Case 36: 5369915
-Case 37: 4190839
-Case 38: 5634547
-Case 39: 2288759
-Case 40: 5824622
-Case 41: 5836054
-Case 42: 8639284
-Case 43: 7019916
-Case 44: 4446356
-Case 45: 7014113
-Case 46: 3089770
-Case 47: 5532908
-Case 48: 7150250
-Case 49: 5562872
-Case 50: 3890685
-Case 51: 1114158
-Case 52: 9683987
-Case 53: 1100048
-Case 54: 5452536
-Case 55: 5193653
-Case 56: 7888159
-Case 57: 1451016
-Case 58: 2711936
-Case 59: 9377434
-Case 60: 5675445
-Case 61: 2327778
-Case 62: 7554152
-Case 63: 0
-Case 64: 9737386
-Case 1: 20211
-Case 2: 4686906
-Case 3: 1624466
-Case 4: 3562198
-Case 5: 1079000
-Case 6: 9
-Case 7: 5308890
-Case 8: 845596
-Case 9: 5799520
-Case 10: 4361916
-Case 11: 8147
-Case 12: 6613198
-Case 13: 4108445
-Case 14: 28787
-Case 15: 1995729
-Case 16: 1500465
-Case 17: 45
-Case 18: 7673240
-Case 19: 39
-Case 20: 11087
-Case 21: 8835156
-Case 22: 8609436
-Case 23: 8076164
-Case 24: 4861810
-Case 25: 3112585
-Case 26: 6471806
-Case 27: 878920
-Case 28: 2942960
-Case 29: 531836
-Case 30: 8756397
-Case 31: 9089659
-Case 32: 343856
-Case 33: 7544785
-Case 34: 6904902
-Case 35: 1411463
-Case 36: 5369915
-Case 37: 4190839
-Case 38: 5634547
-Case 39: 2288759
-Case 40: 5824622
-Case 41: 5836054
-Case 42: 8639284
-Case 43: 7019916
-Case 44: 4446356
-Case 45: 7014113
-Case 46: 3089770
-Case 47: 5532908
-Case 48: 7150250
-Case 49: 5562872
-Case 50: 3890685
-Case 51: 1114158
-Case 52: 9683987
-Case 53: 1100048
-Case 54: 5452536
-Case 55: 5193653
-Case 56: 7888159
-Case 57: 1451016
-Case 58: 2711936
-Case 59: 9377434
-Case 60: 5675445
-Case 61: 2327778
-Case 62: 7554152
-Case 63: 0
-Case 64: 9737386
+Case 1:
+Ignored
+Ignored
+http://www.vicissitudes.cz/
+http://www.demolished.cz/
+Ignored
+http://www.vicissitudes.cz/
+http://www.azerbaijan.cz/
+http://www.vicissitudes.cz/
+http://www.structured.cz/
+Case 2:
+http://www.galleries.cz/
+Ignored
+http://www.lightoj.com/
+Ignored
+http://www.galleries.cz/
+Ignored
+http://www.supplement.cz/
+http://www.chronology.cz/
+http://www.supplement.cz/
+http://www.galleries.cz/
+http://www.lightoj.com/
+http://www.broadcast.cz/
+http://www.facsimile.cz/
+http://www.broadcast.cz/
+http://www.facsimile.cz/
+http://www.broadcast.cz/
+http://www.facsimile.cz/
+http://www.broadcast.cz/
+http://www.efficiently.cz/
+http://www.presented.cz/
+Ignored
+Ignored
+Case 3:
+http://www.accommodating.cz/
+Ignored
+Ignored
+http://www.lightoj.com/
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.journeyman.cz/
+Ignored
+http://www.lightoj.com/
+http://www.cartridge.cz/
+http://www.instrumentality.cz/
+Ignored
+http://www.addressed.cz/
+http://www.examinations.cz/
+Ignored
+http://www.addressed.cz/
+http://www.tightening.cz/
+http://www.recapitulate.cz/
+http://www.melodramatic.cz/
+http://www.unadulterated.cz/
+http://www.abstemious.cz/
+Ignored
+Ignored
+http://www.unadulterated.cz/
+http://www.vicarious.cz/
+http://www.greetings.cz/
+http://www.generated.cz/
+http://www.longitude.cz/
+http://www.hypothetical.cz/
+http://www.alligator.cz/
+http://www.hypothetical.cz/
+http://www.approving.cz/
+Ignored
+http://www.deprivation.cz/
+Case 4:
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.suspension.cz/
+http://www.misleading.cz/
+Ignored
+http://www.arbitration.cz/
+http://www.misleading.cz/
+http://www.arbitration.cz/
+http://www.stratagem.cz/
+http://www.arbitration.cz/
+http://www.inflexible.cz/
+http://www.arbitration.cz/
+http://www.inflexible.cz/
+http://www.automaton.cz/
+http://www.inflexible.cz/
+http://www.automaton.cz/
+Ignored
+http://www.inflexible.cz/
+http://www.arbitration.cz/
+http://www.misleading.cz/
+http://www.fairfield.cz/
+Ignored
+http://www.misleading.cz/
+http://www.suspension.cz/
+http://www.misleading.cz/
+http://www.whitehall.cz/
+http://www.misleading.cz/
+http://www.whitehall.cz/
+Ignored
+Ignored
+http://www.misleading.cz/
+http://www.whitehall.cz/
+http://www.misleading.cz/
+http://www.whitehall.cz/
+http://www.subsequent.cz/
+Case 5:
+Ignored
+Ignored
+http://www.crystalline.cz/
+http://www.lightoj.com/
+http://www.automatic.cz/
+http://www.blockhouse.cz/
+Ignored
+http://www.hearthstone.cz/
+Ignored
+Ignored
+http://www.regularly.cz/
+Ignored
+http://www.hearthstone.cz/
+http://www.blockhouse.cz/
+http://www.hearthstone.cz/
+http://www.blockhouse.cz/
+http://www.automatic.cz/
+http://www.lightoj.com/
+http://www.automatic.cz/
+http://www.lightoj.com/
+http://www.automatic.cz/
+http://www.blockhouse.cz/
+http://www.automatic.cz/
+http://www.lightoj.com/
+Ignored
+http://www.automatic.cz/
+http://www.blockhouse.cz/
+http://www.mentioned.cz/
+http://www.blockhouse.cz/
+http://www.automatic.cz/
+http://www.prostitute.cz/
+http://www.shoemakers.cz/
+http://www.prostitute.cz/
+http://www.circumspect.cz/
+http://www.prostitute.cz/
+http://www.iniquitous.cz/
+http://www.specialist.cz/
+Ignored
+http://www.iniquitous.cz/
+http://www.broadcasting.cz/
+http://www.wondering.cz/
+http://www.greetings.cz/
+http://www.monotheism.cz/
+Ignored
+http://www.prescription.cz/
+http://www.monotheism.cz/
+http://www.greetings.cz/
+http://www.wondering.cz/
+http://www.interference.cz/
+http://www.wondering.cz/
+http://www.broadcasting.cz/
+http://www.wondering.cz/
+http://www.broadcasting.cz/
+http://www.iniquitous.cz/
+http://www.pawnbroker.cz/
+http://www.southampton.cz/
+Ignored
+Ignored
+Ignored
+http://www.pawnbroker.cz/
+Case 6:
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.disrespectful.cz/
+Ignored
+http://www.hertfordshire.cz/
+http://www.disrespectful.cz/
+http://www.lightoj.com/
+http://www.disrespectful.cz/
+http://www.lightoj.com/
+Ignored
+http://www.capabilities.cz/
+Ignored
+http://www.insidiously.cz/
+http://www.capabilities.cz/
+http://www.lightoj.com/
+http://www.meaningless.cz/
+Ignored
+http://www.lightoj.com/
+http://www.meaningless.cz/
+http://www.upholstery.cz/
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.meaningless.cz/
+http://www.abstracted.cz/
+http://www.meaningless.cz/
+http://www.lightoj.com/
+Ignored
+http://www.inconsistency.cz/
+http://www.exemplify.cz/
+Ignored
+Ignored
+http://www.amplitude.cz/
+http://www.exemplify.cz/
+http://www.wrestling.cz/
+http://www.adjustments.cz/
+http://www.enquiries.cz/
+http://www.adjustments.cz/
+http://www.erroneously.cz/
+Ignored
+http://www.adjustments.cz/
+http://www.positions.cz/
+http://www.adjustments.cz/
+http://www.wrestling.cz/
+http://www.adjustments.cz/
+http://www.positions.cz/
+Case 7:
+Ignored
+Ignored
+Ignored
+http://www.cooperation.cz/
+http://www.acclaimed.cz/
+http://www.cooperation.cz/
+http://www.lightoj.com/
+http://www.cooperation.cz/
+Case 8:
+http://www.specializing.cz/
+Ignored
+Ignored
+Ignored
+http://www.lightoj.com/
+Ignored
+http://www.specializing.cz/
+http://www.lightoj.com/
+Ignored
+http://www.specializing.cz/
+http://www.translator.cz/
+http://www.delegation.cz/
+http://www.translator.cz/
+http://www.specializing.cz/
+http://www.translator.cz/
+http://www.delegation.cz/
+http://www.translator.cz/
+http://www.delegation.cz/
+Ignored
+http://www.translator.cz/
+http://www.producing.cz/
+Ignored
+http://www.headlines.cz/
+http://www.distributor.cz/
+Ignored
+http://www.restaurants.cz/
+http://www.distributor.cz/
+http://www.headlines.cz/
+http://www.medication.cz/
+http://www.headlines.cz/
+http://www.proletariat.cz/
+http://www.headlines.cz/
+http://www.limitless.cz/
+http://www.headlines.cz/
+http://www.synthesis.cz/
+http://www.hundredth.cz/
+http://www.materialism.cz/
+http://www.hundredth.cz/
+http://www.materialism.cz/
+http://www.immunology.cz/
+http://www.materialism.cz/
+http://www.terminology.cz/
+http://www.overloaded.cz/
+http://www.organizing.cz/
+http://www.improvements.cz/
+http://www.organizing.cz/
+http://www.overloaded.cz/
+http://www.terminology.cz/
+http://www.materialism.cz/
+http://www.hundredth.cz/
+http://www.materialism.cz/
+http://www.unceasing.cz/
+http://www.materialism.cz/
+http://www.unceasing.cz/
+Ignored
+http://www.proposition.cz/
+http://www.horseshoe.cz/
+http://www.proposition.cz/
+http://www.unceasing.cz/
+http://www.productivity.cz/
+http://www.unceasing.cz/
+http://www.materialism.cz/
+http://www.unceasing.cz/
+http://www.materialism.cz/
+http://www.informational.cz/
+http://www.materialism.cz/
+http://www.hundredth.cz/
+http://www.synthesis.cz/
+http://www.hundredth.cz/
+http://www.illustrator.cz/
+http://www.hundredth.cz/
+http://www.argentine.cz/
+http://www.continues.cz/
+Ignored
+http://www.insoluble.cz/
+http://www.continues.cz/
+Case 9:
+Ignored
+Ignored
+http://www.contagion.cz/
+http://www.lightoj.com/
+http://www.henderson.cz/
+http://www.highlander.cz/
+Ignored
+http://www.fundraising.cz/
+http://www.admixture.cz/
+Ignored
+Ignored
+http://www.fundraising.cz/
+http://www.highlander.cz/
+http://www.henderson.cz/
+http://www.bounteous.cz/
+http://www.southwest.cz/
+http://www.dogmatism.cz/
+Ignored
+http://www.measurements.cz/
+http://www.dogmatism.cz/
+http://www.measurements.cz/
+http://www.dogmatism.cz/
+http://www.singapore.cz/
+http://www.dogmatism.cz/
+http://www.singapore.cz/
+http://www.herculean.cz/
+http://www.singapore.cz/
+http://www.insatiable.cz/
+Ignored
+Ignored
+http://www.mercantile.cz/
+http://www.insatiable.cz/
+http://www.commissioner.cz/
+http://www.locksmith.cz/
+Ignored
+http://www.commissioner.cz/
+http://www.insatiable.cz/
+http://www.singapore.cz/
+http://www.convenient.cz/
+http://www.unpretending.cz/
+Ignored
+Ignored
+http://www.convenient.cz/
+http://www.transatlantic.cz/
+http://www.convenient.cz/
+http://www.fantastic.cz/
+Ignored
+http://www.conflagration.cz/
+Ignored
+http://www.copyright.cz/
+http://www.conflagration.cz/
+http://www.irreparable.cz/
+http://www.celebrity.cz/
+Ignored
+http://www.parsonage.cz/
+http://www.celebrity.cz/
+http://www.parsonage.cz/
+http://www.celebrity.cz/
+http://www.illuminate.cz/
+http://www.celebrity.cz/
+http://www.irreparable.cz/
+http://www.repellent.cz/
+http://www.parsimony.cz/
+http://www.repellent.cz/
+http://www.irreparable.cz/
+http://www.conflagration.cz/
+http://www.ownership.cz/
+http://www.conflagration.cz/
+http://www.ownership.cz/
+http://www.conflagration.cz/
+http://www.indicating.cz/
+http://www.louisiana.cz/
+Ignored
+http://www.recommendations.cz/
+Case 10:
+http://www.derisively.cz/
+http://www.elegantly.cz/
+http://www.derisively.cz/
+http://www.participate.cz/
+http://www.diagnosis.cz/
+http://www.scheduling.cz/
+Ignored
+Ignored
+Case 11:
+Ignored
+http://www.corporate.cz/
+Ignored
+http://www.lightoj.com/
+Ignored
+Ignored
+http://www.corporate.cz/
+http://www.lightoj.com/
+http://www.corporate.cz/
+Ignored
+http://www.lightoj.com/
+http://www.corporate.cz/
+Ignored
+http://www.evacuation.cz/
+http://www.corporate.cz/
+http://www.lightoj.com/
+http://www.corporate.cz/
+http://www.evacuation.cz/
+http://www.corporate.cz/
+http://www.evacuation.cz/
+Ignored
+http://www.widespread.cz/
+http://www.evacuation.cz/
+http://www.corporate.cz/
+http://www.evacuation.cz/
+http://www.widespread.cz/
+Ignored
+http://www.evacuation.cz/
+http://www.widespread.cz/
+Ignored
+http://www.evacuation.cz/
+http://www.corporate.cz/
+http://www.undesirable.cz/
+http://www.extraordinary.cz/
+http://www.infinitesimal.cz/
+Ignored
+http://www.extraordinary.cz/
+http://www.undesirable.cz/
+Case 12:
+Ignored
+Ignored
+http://www.franchise.cz/
+http://www.lightoj.com/
+Ignored
+http://www.franchise.cz/
+http://www.lightoj.com/
+Ignored
+Ignored
+Ignored
+http://www.franchise.cz/
+Ignored
+http://www.somewhere.cz/
+http://www.indignity.cz/
+Case 13:
+Ignored
+http://www.equitable.cz/
+http://www.lightoj.com/
+http://www.equitable.cz/
+http://www.editorials.cz/
+http://www.amalgamated.cz/
+http://www.generators.cz/
+http://www.aluminium.cz/
+http://www.intolerant.cz/
+http://www.aluminium.cz/
+http://www.graveyard.cz/
+http://www.bellingham.cz/
+Ignored
+http://www.educational.cz/
+Ignored
+http://www.bellingham.cz/
+http://www.graveyard.cz/
+http://www.aluminium.cz/
+http://www.generators.cz/
+http://www.aluminium.cz/
+http://www.middlesex.cz/
+http://www.vocabulary.cz/
+http://www.humanities.cz/
+http://www.citizenship.cz/
+http://www.variations.cz/
+http://www.citizenship.cz/
+http://www.humanities.cz/
+http://www.vocabulary.cz/
+http://www.middlesex.cz/
+http://www.vocabulary.cz/
+http://www.accountable.cz/
+Ignored
+http://www.experienced.cz/
+Ignored
+Case 14:
+Ignored
+Ignored
+Ignored
+http://www.autograph.cz/
+http://www.accompanying.cz/
+http://www.prefecture.cz/
+Ignored
+http://www.accompanying.cz/
+http://www.autograph.cz/
+http://www.surveillance.cz/
+http://www.autograph.cz/
+http://www.seamanship.cz/
+http://www.autograph.cz/
+http://www.lightoj.com/
+http://www.highlighted.cz/
+http://www.lightoj.com/
+Ignored
+http://www.fundamentally.cz/
+Ignored
+http://www.uninteresting.cz/
+http://www.receiving.cz/
+http://www.exception.cz/
+http://www.receiving.cz/
+http://www.itinerary.cz/
+http://www.receiving.cz/
+http://www.uninteresting.cz/
+http://www.fundamentally.cz/
+http://www.uninteresting.cz/
+http://www.fundamentally.cz/
+http://www.singularity.cz/
+http://www.fundamentally.cz/
+http://www.administrative.cz/
+Ignored
+http://www.perpetuate.cz/
+Ignored
+http://www.increasingly.cz/
+http://www.perpetuate.cz/
+http://www.annihilation.cz/
+http://www.perpetuate.cz/
+http://www.annihilation.cz/
+http://www.perpetuate.cz/
+http://www.administrative.cz/
+http://www.manipulation.cz/
+http://www.administrative.cz/
+http://www.manipulation.cz/
+http://www.administrative.cz/
+http://www.fundamentally.cz/
+http://www.administrative.cz/
+http://www.fundamentally.cz/
+http://www.emancipate.cz/
+http://www.religions.cz/
+http://www.emancipate.cz/
+http://www.religions.cz/
+Ignored
+http://www.concurrence.cz/
+http://www.adaptation.cz/
+http://www.concurrence.cz/
+http://www.adaptation.cz/
+http://www.arrangements.cz/
+http://www.adaptation.cz/
+http://www.harbinger.cz/
+http://www.adaptation.cz/
+http://www.concurrence.cz/
+http://www.adaptation.cz/
+http://www.harbinger.cz/
+http://www.adaptation.cz/
+http://www.concurrence.cz/
+http://www.adaptation.cz/
+http://www.harbinger.cz/
+http://www.adaptation.cz/
+http://www.peterborough.cz/
+Ignored
+http://www.adaptation.cz/
+http://www.peterborough.cz/
+http://www.concentric.cz/
+http://www.portcullis.cz/
+Ignored
+http://www.concentric.cz/
+http://www.peterborough.cz/
+http://www.concentric.cz/
+http://www.automobile.cz/
+Ignored
+http://www.concentric.cz/
+http://www.automobile.cz/
+http://www.emptiness.cz/
+http://www.underlying.cz/
+Ignored
+http://www.emptiness.cz/
+http://www.underlying.cz/
+http://www.privateer.cz/
+http://www.haphazard.cz/
+http://www.privateer.cz/
+Case 15:
+http://www.librarian.cz/
+Ignored
+http://www.lightoj.com/
+http://www.librarian.cz/
+Ignored
+http://www.lightoj.com/
+http://www.librarian.cz/
+http://www.lightoj.com/
+Ignored
+http://www.munificent.cz/
+http://www.lightoj.com/
+Ignored
+http://www.munificent.cz/
+Ignored
+http://www.instability.cz/
+http://www.swineherd.cz/
+http://www.ostentatious.cz/
+http://www.swineherd.cz/
+http://www.instability.cz/
+http://www.munificent.cz/
+http://www.instability.cz/
+http://www.swineherd.cz/
+http://www.permissible.cz/
+http://www.stripling.cz/
+http://www.permissible.cz/
+http://www.pollution.cz/
+http://www.organizations.cz/
+http://www.instrumentality.cz/
+Ignored
+Ignored
+Ignored
+http://www.organizations.cz/
+http://www.pollution.cz/
+http://www.organizations.cz/
+http://www.unreliable.cz/
+Ignored
+http://www.organizations.cz/
+http://www.unreliable.cz/
+http://www.cleansing.cz/
+http://www.unreliable.cz/
+http://www.cleansing.cz/
+Ignored
+http://www.unreliable.cz/
+http://www.organizations.cz/
+http://www.springfield.cz/
+Ignored
+Case 16:
+Ignored
+Ignored
+http://www.vulgarity.cz/
+Ignored
+Ignored
+http://www.regulations.cz/
+http://www.vulgarity.cz/
+http://www.regulations.cz/
+http://www.vulgarity.cz/
+http://www.lightoj.com/
+http://www.vulgarity.cz/
+http://www.bookmarks.cz/
+http://www.vulgarity.cz/
+http://www.bookmarks.cz/
+http://www.mauritius.cz/
+Ignored
+http://www.terrorism.cz/
+Ignored
+http://www.mauritius.cz/
+http://www.bookmarks.cz/
+http://www.tenacious.cz/
+Ignored
+http://www.calamitous.cz/
+Ignored
+http://www.tenacious.cz/
+http://www.expansive.cz/
+http://www.culminated.cz/
+Ignored
+Ignored
+Ignored
+http://www.participated.cz/
+Ignored
+http://www.culminated.cz/
+http://www.expansive.cz/
+http://www.culminated.cz/
+http://www.participated.cz/
+http://www.extending.cz/
+Ignored
+Ignored
+http://www.participated.cz/
+http://www.culminated.cz/
+http://www.spontaneously.cz/
+http://www.culminated.cz/
+http://www.spontaneously.cz/
+http://www.chronicle.cz/
+http://www.resolution.cz/
+http://www.chronicle.cz/
+http://www.spontaneously.cz/
+http://www.chronicle.cz/
+http://www.valueless.cz/
+Ignored
+http://www.forthcoming.cz/
+http://www.valueless.cz/
+http://www.forthcoming.cz/
+http://www.valueless.cz/
+http://www.unchanging.cz/
+http://www.christopher.cz/
+Ignored
+http://www.unchanging.cz/
+http://www.valueless.cz/
+http://www.unchanging.cz/
+http://www.valueless.cz/
+http://www.chronicle.cz/
+http://www.effeminacy.cz/
+http://www.transformation.cz/
+http://www.acquittal.cz/
+http://www.transformation.cz/
+http://www.acquittal.cz/
+http://www.transformation.cz/
+http://www.inundation.cz/
+http://www.transformation.cz/
+http://www.inundation.cz/
+http://www.weakening.cz/
+http://www.inundation.cz/
+http://www.weakening.cz/
+Ignored
+http://www.abolishing.cz/
+Ignored
+http://www.weakening.cz/
+http://www.abolishing.cz/
+http://www.interview.cz/
+Ignored
+http://www.abolishing.cz/
+http://www.distinction.cz/
+http://www.copyrights.cz/
+http://www.navigation.cz/
+http://www.overnight.cz/
+http://www.navigation.cz/
+http://www.prerogative.cz/
+Ignored
+http://www.navigation.cz/
+http://www.copyrights.cz/
+http://www.navigation.cz/
+http://www.statement.cz/
+http://www.delivered.cz/
+Case 17:
+Ignored
+http://www.constituency.cz/
+Ignored
+Ignored
+http://www.unfathomable.cz/
+http://www.despondency.cz/
+http://www.unfathomable.cz/
+http://www.constituency.cz/
+http://www.lightoj.com/
+http://www.facetiously.cz/
+http://www.lightoj.com/
+Ignored
+Ignored
+http://www.facetiously.cz/
+Ignored
+Ignored
+Ignored
+http://www.definitions.cz/
+Ignored
+Ignored
+http://www.furtherance.cz/
+http://www.definitions.cz/
+http://www.population.cz/
+http://www.incarnation.cz/
+Ignored
+http://www.population.cz/
+http://www.incarnation.cz/
+Ignored
+http://www.permanent.cz/
+Ignored
+Ignored
+http://www.coalition.cz/
+Ignored
+Ignored
+http://www.permanent.cz/
+http://www.coalition.cz/
+Ignored
+http://www.pollyanna.cz/
+Ignored
+Ignored
+http://www.coalition.cz/
+http://www.restriction.cz/
+http://www.beneficiary.cz/
+http://www.restriction.cz/
+http://www.excellence.cz/
+http://www.restriction.cz/
+http://www.coalition.cz/
+http://www.permanent.cz/
+http://www.incarnation.cz/
+http://www.manganese.cz/
+Ignored
+http://www.instructors.cz/
+Ignored
+http://www.disclaimer.cz/
+http://www.abstracted.cz/
+http://www.aloofness.cz/
+http://www.classified.cz/
+Ignored
+http://www.magnetism.cz/
+Ignored
+http://www.classified.cz/
+http://www.magnetism.cz/
+Ignored
+Case 18:
+Ignored
+Ignored
+Ignored
+http://www.misleading.cz/
+http://www.distinction.cz/
+http://www.comfortable.cz/
+http://www.antediluvian.cz/
+http://www.capacious.cz/
+Ignored
+http://www.elegantly.cz/
+Ignored
+http://www.subterfuge.cz/
+http://www.elegantly.cz/
+http://www.capacious.cz/
+http://www.antediluvian.cz/
+http://www.comfortable.cz/
+http://www.conflicts.cz/
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.differential.cz/
+http://www.rheumatism.cz/
+Ignored
+Case 19:
+Ignored
+http://www.undefined.cz/
+http://www.lightoj.com/
+http://www.undefined.cz/
+http://www.constituency.cz/
+Ignored
+http://www.emendation.cz/
+Ignored
+Ignored
+http://www.manipulate.cz/
+Ignored
+http://www.emendation.cz/
+http://www.manipulate.cz/
+Ignored
+http://www.facilitate.cz/
+http://www.manipulate.cz/
+http://www.frankfurt.cz/
+Ignored
+Ignored
+Case 20:
+http://www.debauchery.cz/
+Ignored
+http://www.tenaciously.cz/
+Ignored
+Ignored
+Ignored
+http://www.persistent.cz/
+http://www.articulated.cz/
+http://www.conceptual.cz/
+Ignored
+http://www.articulated.cz/
+http://www.manipulation.cz/
+http://www.remainder.cz/
+http://www.endorsement.cz/
+http://www.definitions.cz/
+Ignored
+http://www.endorsement.cz/
+http://www.remainder.cz/
+http://www.endorsement.cz/
+http://www.suspected.cz/
+http://www.ministries.cz/
+http://www.suspected.cz/
+http://www.endorsement.cz/
+http://www.autocracy.cz/
+Ignored
+http://www.endorsement.cz/
+http://www.remainder.cz/
+http://www.endorsement.cz/
+Case 21:
+Ignored
+Case 22:
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.discharge.cz/
+http://www.lightoj.com/
+http://www.discharge.cz/
+Ignored
+http://www.lightoj.com/
+http://www.discharge.cz/
+http://www.lightoj.com/
+http://www.discharge.cz/
+http://www.lightoj.com/
+Ignored
+http://www.discharge.cz/
+Ignored
+http://www.lightoj.com/
+http://www.discharge.cz/
+http://www.satisfactory.cz/
+http://www.discharge.cz/
+http://www.satisfactory.cz/
+Ignored
+http://www.parasitic.cz/
+Ignored
+http://www.satisfactory.cz/
+http://www.stubbornness.cz/
+http://www.satisfactory.cz/
+http://www.discharge.cz/
+http://www.dauntless.cz/
+http://www.accumulates.cz/
+http://www.dauntless.cz/
+http://www.headlines.cz/
+Ignored
+http://www.sustainable.cz/
+http://www.wikipedia.cz/
+Ignored
+http://www.incorporate.cz/
+Ignored
+Ignored
+http://www.permanent.cz/
+http://www.incorporate.cz/
+http://www.wikipedia.cz/
+http://www.contributing.cz/
+http://www.wikipedia.cz/
+http://www.sustainable.cz/
+http://www.licentiousness.cz/
+http://www.sustainable.cz/
+http://www.licentiousness.cz/
+http://www.preoccupation.cz/
+http://www.environment.cz/
+http://www.preoccupation.cz/
+http://www.licentiousness.cz/
+http://www.sustainable.cz/
+http://www.headlines.cz/
+http://www.dauntless.cz/
+http://www.microphone.cz/
+http://www.dauntless.cz/
+http://www.microphone.cz/
+http://www.dauntless.cz/
+http://www.microphone.cz/
+http://www.dauntless.cz/
+http://www.discharge.cz/
+Case 23:
+http://www.revisions.cz/
+http://www.broadsword.cz/
+Ignored
+http://www.condescend.cz/
+Ignored
+http://www.broadsword.cz/
+http://www.revisions.cz/
+http://www.lightoj.com/
+Ignored
+http://www.revisions.cz/
+http://www.lightoj.com/
+http://www.documentation.cz/
+http://www.lightoj.com/
+Ignored
+http://www.dysentery.cz/
+http://www.physicist.cz/
+http://www.inauguration.cz/
+http://www.physicist.cz/
+http://www.dysentery.cz/
+http://www.lightoj.com/
+http://www.dysentery.cz/
+http://www.physicist.cz/
+http://www.southwest.cz/
+http://www.presuppose.cz/
+Ignored
+http://www.southwest.cz/
+http://www.screensavers.cz/
+Ignored
+http://www.remuneration.cz/
+http://www.compression.cz/
+Ignored
+Ignored
+http://www.remuneration.cz/
+http://www.screensavers.cz/
+http://www.talkative.cz/
+http://www.screensavers.cz/
+Case 24:
+Ignored
+Ignored
+http://www.consanguinity.cz/
+http://www.mysterious.cz/
+http://www.consanguinity.cz/
+http://www.lightoj.com/
+http://www.consanguinity.cz/
+http://www.lightoj.com/
+Ignored
+http://www.disapprove.cz/
+http://www.lightoj.com/
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.properties.cz/
+http://www.mercurial.cz/
+Ignored
+http://www.properties.cz/
+http://www.explosive.cz/
+Ignored
+http://www.properties.cz/
+http://www.amplifier.cz/
+http://www.properties.cz/
+http://www.amplifier.cz/
+http://www.obscenity.cz/
+http://www.measurement.cz/
+Ignored
+Ignored
+http://www.husbandry.cz/
+http://www.commendation.cz/
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.husbandry.cz/
+http://www.commendation.cz/
+Ignored
+http://www.stentorian.cz/
+http://www.displease.cz/
+http://www.discusses.cz/
+Ignored
+http://www.enlargement.cz/
+http://www.discusses.cz/
+http://www.recommends.cz/
+http://www.discusses.cz/
+http://www.pomerania.cz/
+Ignored
+http://www.discusses.cz/
+http://www.disheartened.cz/
+Ignored
+http://www.frederick.cz/
+http://www.disheartened.cz/
+http://www.responsive.cz/
+http://www.hollywood.cz/
+Ignored
+Case 25:
+Ignored
+http://www.origination.cz/
+Ignored
+http://www.industrial.cz/
+Ignored
+http://www.origination.cz/
+http://www.lightoj.com/
+Ignored
+Ignored
+Ignored
+http://www.rearguard.cz/
+http://www.lightoj.com/
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.rearguard.cz/
+Ignored
+Ignored
+http://www.inadvertently.cz/
+http://www.rearguard.cz/
+http://www.lightoj.com/
+Ignored
+http://www.rearguard.cz/
+http://www.undesirable.cz/
+Ignored
+http://www.rearguard.cz/
+http://www.lightoj.com/
+http://www.rearguard.cz/
+http://www.lightoj.com/
+http://www.conscripts.cz/
+http://www.atmospheric.cz/
+http://www.brigadier.cz/
+Ignored
+http://www.pharmacology.cz/
+http://www.squirting.cz/
+Case 26:
+Ignored
+Ignored
+Ignored
+http://www.insatiable.cz/
+http://www.uninformed.cz/
+http://www.insatiable.cz/
+http://www.uninformed.cz/
+Ignored
+http://www.newspapers.cz/
+http://www.uninformed.cz/
+http://www.insatiable.cz/
+http://www.strictness.cz/
+http://www.respiratory.cz/
+http://www.amputation.cz/
+http://www.resounding.cz/
+http://www.spirituality.cz/
+http://www.philanthropy.cz/
+http://www.shepherdess.cz/
+http://www.philanthropy.cz/
+http://www.spirituality.cz/
+http://www.philanthropy.cz/
+http://www.shepherdess.cz/
+http://www.philanthropy.cz/
+http://www.circumstantial.cz/
+http://www.philanthropy.cz/
+http://www.spirituality.cz/
+http://www.springfield.cz/
+http://www.spirituality.cz/
+http://www.resounding.cz/
+http://www.spirituality.cz/
+http://www.resounding.cz/
+http://www.spirituality.cz/
+http://www.resounding.cz/
+http://www.amputation.cz/
+http://www.resounding.cz/
+http://www.temperamental.cz/
+Ignored
+http://www.resounding.cz/
+http://www.temperamental.cz/
+http://www.resounding.cz/
+http://www.amputation.cz/
+http://www.presidential.cz/
+Ignored
+http://www.trigonometry.cz/
+http://www.continues.cz/
+http://www.increasing.cz/
+http://www.continues.cz/
+http://www.increasing.cz/
+Ignored
+http://www.abnormally.cz/
+http://www.increasing.cz/
+http://www.abnormally.cz/
+http://www.increasing.cz/
+http://www.abnormally.cz/
+Ignored
+http://www.tambourine.cz/
+http://www.surrounded.cz/
+http://www.tambourine.cz/
+http://www.abnormally.cz/
+http://www.tambourine.cz/
+http://www.abnormally.cz/
+http://www.quantitative.cz/
+http://www.complicated.cz/
+Ignored
+http://www.quantitative.cz/
+http://www.abnormally.cz/
+http://www.leguminous.cz/
+Ignored
+http://www.abnormally.cz/
+http://www.increasing.cz/
+http://www.abnormally.cz/
+http://www.formation.cz/
+http://www.disclaimers.cz/
+http://www.formation.cz/
+http://www.abnormally.cz/
+http://www.increasing.cz/
+http://www.abnormally.cz/
+http://www.formation.cz/
+http://www.contribute.cz/
+http://www.formation.cz/
+http://www.difference.cz/
+Ignored
+http://www.parsimony.cz/
+http://www.delivered.cz/
+http://www.mysticism.cz/
+http://www.delivered.cz/
+http://www.miscarriage.cz/
+http://www.delivered.cz/
+http://www.upholstery.cz/
+http://www.reproductive.cz/
+Ignored
+http://www.refrigerator.cz/
+Ignored
+Case 27:
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+Case 28:
+http://www.undertone.cz/
+http://www.lightoj.com/
+http://www.undertone.cz/
+http://www.lightoj.com/
+http://www.initiative.cz/
+http://www.lightoj.com/
+http://www.initiative.cz/
+http://www.lightoj.com/
+Ignored
+http://www.initiative.cz/
+http://www.constipation.cz/
+http://www.unemployed.cz/
+http://www.veterinary.cz/
+http://www.prohibited.cz/
+http://www.veterinary.cz/
+http://www.prohibited.cz/
+http://www.veterinary.cz/
+http://www.unemployed.cz/
+http://www.veterinary.cz/
+http://www.prohibited.cz/
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.veterinary.cz/
+http://www.cavernous.cz/
+Ignored
+http://www.hesitancy.cz/
+http://www.charwoman.cz/
+http://www.publications.cz/
+Ignored
+http://www.charwoman.cz/
+http://www.hesitancy.cz/
+http://www.charwoman.cz/
+http://www.tarpaulin.cz/
+http://www.workstation.cz/
+Ignored
+http://www.governments.cz/
+Ignored
+Ignored
+Ignored
+http://www.workstation.cz/
+http://www.governments.cz/
+http://www.comparison.cz/
+http://www.governments.cz/
+http://www.comparison.cz/
+http://www.admittance.cz/
+http://www.comparison.cz/
+http://www.macedonia.cz/
+http://www.discretionary.cz/
+Ignored
+http://www.fantastic.cz/
+http://www.destroyer.cz/
+http://www.fantastic.cz/
+http://www.destroyer.cz/
+Ignored
+Ignored
+http://www.fantastic.cz/
+http://www.implications.cz/
+Ignored
+http://www.hypothetical.cz/
+http://www.implications.cz/
+http://www.fantastic.cz/
+http://www.implications.cz/
+http://www.satellite.cz/
+http://www.deadening.cz/
+http://www.employees.cz/
+http://www.deadening.cz/
+http://www.telecommunications.cz/
+http://www.deadening.cz/
+http://www.telecommunications.cz/
+Ignored
+Ignored
+Ignored
+http://www.deadening.cz/
+http://www.satellite.cz/
+http://www.hierarchy.cz/
+Case 29:
+Ignored
+Ignored
+Ignored
+http://www.outsourcing.cz/
+http://www.lightoj.com/
+http://www.outsourcing.cz/
+http://www.quarterly.cz/
+http://www.transcendental.cz/
+http://www.investing.cz/
+Ignored
+http://www.controlling.cz/
+http://www.workhouse.cz/
+http://www.controlling.cz/
+http://www.workhouse.cz/
+http://www.controlling.cz/
+http://www.workhouse.cz/
+Ignored
+http://www.controlling.cz/
+http://www.investing.cz/
+http://www.controlling.cz/
+http://www.amphitheatre.cz/
+http://www.amphibious.cz/
+Ignored
+http://www.investigated.cz/
+Ignored
+Ignored
+Ignored
+Ignored
+Ignored
+http://www.cincinnati.cz/
+http://www.investigated.cz/
+http://www.credulity.cz/
+http://www.feudalism.cz/
+http://www.uncultivated.cz/
+Ignored
+http://www.gibraltar.cz/
+http://www.uncultivated.cz/
+http://www.feudalism.cz/
+http://www.excitement.cz/
+Ignored
+http://www.cognition.cz/
+Ignored
+Ignored
+http://www.abdominal.cz/
+Ignored
+Ignored
+http://www.cognition.cz/
+http://www.undertone.cz/
+http://www.cognition.cz/
+http://www.excitement.cz/
+http://www.contracting.cz/
+http://www.sensitivity.cz/
+http://www.upsetting.cz/
+http://www.sensitivity.cz/
+http://www.upsetting.cz/
+http://www.abnegation.cz/
+http://www.demagogue.cz/
+http://www.philanthropic.cz/
+Ignored
+Ignored
+Ignored
+http://www.delectation.cz/
+http://www.separable.cz/
+http://www.delectation.cz/
+http://www.expressed.cz/
+Ignored
+http://www.dramatist.cz/
+http://www.archipelago.cz/
+http://www.dramatist.cz/
+http://www.archipelago.cz/
+http://www.dramatist.cz/
+http://www.regulations.cz/
+http://www.dramatist.cz/
+http://www.regulations.cz/
+http://www.unnecessarily.cz/
+Case 30:
+Ignored
+Ignored
+http://www.refrigerator.cz/
+http://www.registered.cz/
+Ignored
+http://www.spectacular.cz/
+Ignored
+Ignored
+Ignored
+http://www.consecutive.cz/
+http://www.essentials.cz/
+http://www.yesterday.cz/
+http://www.paternity.cz/
+Ignored
+Ignored
+http://www.yesterday.cz/
+http://www.traditionary.cz/
+Ignored
+Ignored
+Ignored
+http://www.paraphernalia.cz/
+http://www.traditionary.cz/
+http://www.yesterday.cz/
+http://www.traditionary.cz/
+http://www.paraphernalia.cz/
+http://www.admission.cz/
+Ignored
+http://www.unproductive.cz/
+Ignored
+http://www.admission.cz/
+http://www.paraphernalia.cz/
+http://www.traditionary.cz/
+http://www.paraphernalia.cz/
+http://www.admission.cz/
+http://www.emanation.cz/
+http://www.admission.cz/
+http://www.emanation.cz/
+http://www.intractable.cz/
+http://www.overworked.cz/
+http://www.intractable.cz/
+http://www.overworked.cz/
+http://www.nationwide.cz/
+http://www.overworked.cz/
+http://www.intractable.cz/
+http://www.unrelated.cz/
+http://www.transportation.cz/
+http://www.unrelated.cz/
+http://www.intractable.cz/
+http://www.unrelated.cz/
+http://www.continued.cz/
+Ignored
+http://www.enhancement.cz/
+http://www.continued.cz/
+http://www.enhancement.cz/
+Ignored
+http://www.autocratic.cz/
+http://www.bangladesh.cz/
+http://www.autocratic.cz/
+http://www.bangladesh.cz/
+http://www.autocratic.cz/
+http://www.repudiate.cz/
+http://www.autocratic.cz/
+http://www.repudiate.cz/
+http://www.autocratic.cz/
+http://www.repudiate.cz/
+http://www.autocratic.cz/
+http://www.enhancement.cz/
+http://www.autocratic.cz/
+http://www.repudiate.cz/
+Ignored
+http://www.undersigned.cz/
+http://www.repudiate.cz/
+http://www.simpleton.cz/
+Ignored
+http://www.repudiate.cz/
+http://www.engagement.cz/
+Ignored
+Ignored
+Ignored
+Case 31:
+http://www.complimentary.cz/
+Ignored
+http://www.reprimand.cz/
+http://www.argentine.cz/
+http://www.disrepute.cz/
+Ignored
+http://www.remembered.cz/
+http://www.disrepute.cz/
+http://www.transmission.cz/
+http://www.disrepute.cz/
+http://www.transmission.cz/
+http://www.spellbound.cz/
+Ignored
+Ignored
+http://www.grenadier.cz/
+http://www.spellbound.cz/
+http://www.significantly.cz/
+Ignored
+http://www.spellbound.cz/
+http://www.significantly.cz/
+http://www.spellbound.cz/
+http://www.scheduling.cz/
+http://www.hippopotamus.cz/
+http://www.consecutive.cz/
+http://www.reflection.cz/
+http://www.detection.cz/
+http://www.reflection.cz/
+http://www.consecutive.cz/
+http://www.screensavers.cz/
+http://www.incredulity.cz/
+Ignored
+http://www.encouraging.cz/
+Ignored
+Ignored
+Ignored
+http://www.deformity.cz/
+http://www.encouraging.cz/
+http://www.flinching.cz/
+http://www.encouraging.cz/
+http://www.jefferson.cz/
+http://www.encouraging.cz/
+http://www.prosecutor.cz/
+Ignored
+Ignored
+http://www.encouraging.cz/
+http://www.incredulity.cz/
+http://www.encouraging.cz/
+http://www.intimidate.cz/
+http://www.encouraging.cz/
+http://www.intimidate.cz/
+http://www.experiments.cz/
+Ignored
+http://www.intimidate.cz/
+http://www.experiments.cz/
+http://www.remarkable.cz/
+Ignored
+Case 32:
+http://www.nomination.cz/
+http://www.lightoj.com/
+http://www.charlotte.cz/
+http://www.fundamentally.cz/
+http://www.charlotte.cz/
+http://www.fundamentally.cz/
+http://www.contamination.cz/
+Ignored
+Ignored
+http://www.fundamentally.cz/
+http://www.charlotte.cz/
+http://www.appliances.cz/
+http://www.charlotte.cz/
+http://www.lightoj.com/
+http://www.riverside.cz/
+http://www.probabilities.cz/
+Ignored
+Ignored
+http://www.riverside.cz/
+http://www.probabilities.cz/
+Ignored
+Ignored
+http://www.johannesburg.cz/
+Ignored
+http://www.probabilities.cz/
+http://www.johannesburg.cz/
+Ignored
+http://www.referenced.cz/
+http://www.johannesburg.cz/
+http://www.instantly.cz/
+http://www.committed.cz/
+Ignored
+Ignored
+Ignored
+http://www.instantly.cz/
+http://www.committed.cz/
+Ignored
+http://www.translator.cz/
+http://www.committed.cz/
+http://www.instantly.cz/
+http://www.johannesburg.cz/
+http://www.instantly.cz/
+http://www.unbridled.cz/
+Ignored
+Ignored
