@@ -1,6 +1,6 @@
 t = int(input())
 
-for i in range(t):
+for k in range(t):
     n = int(input())
     a = list([int(x) for x in input().split()])
     prev = [set()]
@@ -13,7 +13,7 @@ for i in range(t):
 
     if(a[0]!=b[0]):
         print("NO")
-        break
+        continue
     
     flag = True 
 
